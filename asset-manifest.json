@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jadruiz/todo-app-react-js/static/css/main.5fac6bd5.css",
+    "main.js": "/jadruiz/todo-app-react-js/static/js/main.a7a89475.js",
+    "index.html": "/jadruiz/todo-app-react-js/index.html",
+    "static/media/delete.svg": "/jadruiz/todo-app-react-js/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/jadruiz/todo-app-react-js/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.5fac6bd5.css.map": "/jadruiz/todo-app-react-js/static/css/main.5fac6bd5.css.map",
+    "main.a7a89475.js.map": "/jadruiz/todo-app-react-js/static/js/main.a7a89475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fac6bd5.css",
+    "static/js/main.a7a89475.js"
+  ]
+}
